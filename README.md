@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/venkatak863/?edit=true](https://www.crio.do/learn/portfolio/venkatak863/?edit=true)
 
-- 📝 I regularly write articles on [https://krish6896.blogspot.com/2024](https://krish6896.blogspot.com/2024)
+- 📝 I regularly write articles on []
 
 - 💬 Ask me about **Selenium,Java,My SQL,Git,Mannual testing**
 
