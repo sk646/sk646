@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk646" alt="sk646" /></a> </p>
 
-- 🔭 I’m currently working on **QA_Scrape**
+- 🔭 I have recently worked on **API Project**
 
-- 👯 I’m looking to collaborate on **QA_Youtube**
+- 👯 I’m currently working on **perf testing Project**
 
-- 🤝 I’m looking for help with **QA_Flipkart**
+- 🤝 I’m looking for Job opportunities in Software Testing  *****
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/venkatak863/?edit=true](https://www.crio.do/learn/portfolio/venkatak863/?edit=true)
 
